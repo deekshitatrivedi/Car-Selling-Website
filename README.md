@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc27c8d6-9f3c-44f1-8e40-b118805237c2)# MSD - Car Selling Website
+## MSD - Car Selling Website
 
 **Welcome to MSD!**  
 MSD is a comprehensive platform for buying and selling used cars. Our website provides users with a smooth experience to browse, compare, and find their perfect vehicle. The goal of MSD is to make car shopping easy, affordable, and accessible to everyone.
