@@ -14,7 +14,7 @@ MSD is a comprehensive platform for buying and selling used cars. Our website pr
 - **Services**  
   We offer additional services such as financing options, extended warranties, and trade-in evaluations.
 
-- **Featured**  
+- **Featured Cars**  
   Hand-picked cars that offer the best value for money are displayed in this section.
 
 - **Reviews**  
